@@ -12,4 +12,6 @@ managedNodeGroups:
     minSize: 2
     maxSize: 3
     volumeSize: 8
+
+
     
